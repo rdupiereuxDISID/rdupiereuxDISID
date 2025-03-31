@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi! I'm Ruth
 
-<!--
-**rdupiereuxDISID/rdupiereuxDISID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy coding and picking up new skills every day.
 
-Here are some ideas to get you started:
+Things that make me happy:
+- :cat2: Cats
+- :tea: Drinking tea
+- :film_projector: Filming and editing
+- :martial_arts_uniform: Practicing Iaido  
+- :evergreen_tree: Walking through the forest
+- 🌱 I’m currently learning!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,angular,spring,css,html,figma,mysql,git)](https://skillicons.dev)
