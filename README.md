@@ -1,6 +1,6 @@
 ## Hi! I'm Ruth
 
-I enjoy coding and picking up new skills every day.
+🌱 I’m currently learning and I enjoy coding and picking up new skills every day.
 
 Things that make me happy:
 - :cat2: Cats
@@ -8,7 +8,6 @@ Things that make me happy:
 - :film_projector: Filming and editing
 - :martial_arts_uniform: Practicing Iaido  
 - :evergreen_tree: Walking through the forest
-- 🌱 I’m currently learning!
 
 <br/>
 
